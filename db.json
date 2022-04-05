@@ -1,13 +1,11 @@
 {
-  "userTable": [
-    {
-      "firstname": "Niraj",
-      "lastname": "Vaidya",
-      "email": "nirajkumarv1997@gmail.com",
-      "age": 23,
-      "gender": "male",
-      "discription": "I am react JS developer",
-      "id": 1
-    }
-  ]
+  "category":[],
+  "customer":[],
+  "product":[],
+  "order":[],
+  "comment":[],
+  "invoice":[],
+  "shipment":[],
+  "cart":[],
+  "wishlist":[]
 }
