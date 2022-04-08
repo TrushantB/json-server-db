@@ -7,5 +7,6 @@
   "invoice":[],
   "shipment":[],
   "cart":[],
-  "wishlist":[]
+  "wishlist":[],
+  "userTable":[]
 }
